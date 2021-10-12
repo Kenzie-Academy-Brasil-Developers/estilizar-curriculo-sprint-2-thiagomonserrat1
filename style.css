@@ -9,19 +9,125 @@
 }
 
 #name {
+	margin-left: 80px;
+	margin-top: 40px;
 	float: left;
 }
 
 #contactDetails {
+	margin-top: 40px;
+	margin-right: 80px;
 	float: right;
 }
 
 .sectionTitle {
 	float: left;
-	width: 25%;
+	width: 150;
+	margin-left: 80px ;
 }
 
 .sectionContent {
 	float: right;
-	width: 72.5%;
+	width: 600px;
+	margin-right: 130px;
+}
+img{
+	margin-left: 80px;
+	border-radius: 90px;
+	margin-top: 40px;
+
+}
+ul{
+	list-style: none;
+}
+
+.primeiraLinha{
+	width: 90%;
+	height: 2px;
+	background-color: #cf8a05;
+}
+.segundaLinha{
+	width: 85%;
+	height: 2px;
+	background-color: #dedede;
+	border: none;
+	margin-left: 78px;
+}
+.terceiraLinha{
+	width: 85%;
+	height: 1px;
+	background-color: #dedede;
+	border: none;
+	margin-left: 78px;
+}
+.listaUm{
+	display: inline-block;
+	padding-left: 5px;
+	margin-right: 90px;
+	font-family: 'Lato', sans-serif;
+}
+.listaDois{
+	display: inline-block;
+	padding-left: 5px;
+	margin-right: 90px;
+	font-family: 'Lato', sans-serif;
+}
+.listaTres{
+	display: inline-block;
+	padding-left: 5px;
+	margin-right: 90px;
+	padding-top: auto;
+	font-family: 'Lato', sans-serif;
+	overflow: hidden;
+}
+.quartaLinha{
+	width: 85%;
+	height: 1px;
+	background-color: #dedede;
+	border: none;
+	margin-left: 78px;
+}
+.personal{
+	color: #cf8a05;
+	font-family: 'Rokkitt', serif;
+	font-style: italic;
+	font-size: 20px;
+}
+.work{
+	color: #cf8a05;
+	font-family: 'Rokkitt', serif;
+	font-style: italic;
+	font-size: 20px;
+}
+.key{
+	color: #cf8a05;
+	font-family: 'Rokkitt', serif;
+	font-style: italic;
+	font-size: 20px;
+}
+.educacao{
+	color: #cf8a05;
+	font-family: 'Rokkitt', serif;
+	font-style: italic;
+	font-size: 20px;
+}
+h2{
+	font-family: 'Rokkitt', serif;
+	font-weight: 300;
+}
+.subDetails{
+	font-family: 'Lato', sans-serif;
+	font-style: italic;
+	font-size: 12px;
+}
+.texto{
+	font-family: 'Lato', sans-serif;
+}
+.h2{
+	font-family: 'Rokkitt', serif;
+	font-weight: 300;
+}
+.nome{
+	font-family: 'Rokkitt', serif;
+	font-weight: 900;
 }
